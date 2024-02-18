@@ -6,5 +6,5 @@ function LenearSearch(arr, val) {
     }
     return `${val} Input number is invalid`
 }
-let result = LenearSearch([2,3,4,5], 6)
+let result = LenearSearch([20,30,4,5,1], 1)
 console.log(result)
